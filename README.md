@@ -9,7 +9,7 @@
 <!-- ============================ TYPING ============================ -->
 
 <a href="https://github.com/ansonlo-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;Quant-minded%2C+crypto-curious+%E2%82%BF;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
 </a>
 
 <!-- ============================ SOCIAL ROW ============================ -->
@@ -23,9 +23,6 @@
   </a>
   <a href="mailto:contact@ansonlo.dev">
     <img src="https://img.shields.io/badge/Contact-Email-F7768E?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ko-fi.com/lingubible">
-    <img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
 
@@ -176,22 +173,7 @@ I'm a **Hong Kong-based developer and Lingnan University student** who lives at 
 ## 🎯 What I'm Up To
 
 - 🔭 **Currently building** — new features for [LingUBible](https://lingubible.com): smarter search, richer analytics, and an achievement system
-- 🌱 **Currently learning** — advanced statistical modelling, game theory in practice, and quantitative trading strategies
-- 💭 **Currently exploring** — Bitcoin valuation frameworks and on-chain analytics from a Hong Kong investor's perspective
-- 📚 **Currently studying** — operations research, decision sciences (CDS2004), and applied econometrics at Lingnan University
 - 🤝 **Open to** — collaborations on student-focused tools, EdTech, fintech, or any open-source project that helps real people
-
----
-
-## 💬 Stack
-
-<div align="center">
-
-| Languages |
-| :-------------: |
-| TypeScript · JavaScript · Python · Bash |
-
-</div>
 
 ---
 
@@ -207,7 +189,7 @@ I'm always open to interesting conversations — whether it's a project idea, a 
   <img src="https://img.shields.io/badge/-ansonlo.dev-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:contact@ansonlo.dev">
-  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-F7768E?style=for-the-badge&logo=email&logoColor=white" />
+  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-F7768E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ansonlo-dev/LingUBible/discussions">
   <img src="https://img.shields.io/badge/-Discussions-BB9AF7?style=for-the-badge&logo=github&logoColor=white" />
@@ -225,6 +207,6 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=110&section=footer" alt="footer" />
 
-<sub>Last updated 2026 · Built with ☕ by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
+<sub>Last updated 2026 · Built with ❤️ by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
 
 </div>
