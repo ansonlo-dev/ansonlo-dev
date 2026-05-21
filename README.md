@@ -174,13 +174,13 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 <br />
 
 <a href="https://ansonlo.dev">
-  <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=hugo&logoColor=black" />
 </a>
 <a href="mailto:contact@ansonlo.dev">
-  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a href="https://www.linkedin.com/in/ansonlo-dev">
-  <img src="https://img.shields.io/badge/-ansonlo-dev-0891B2?style=for-the-badge&logo=linkedin&logoColor=transparent" />
+  <img src="https://img.shields.io/badge/-ansonlo-dev-0891B2?style=for-the-badge&logo=Linkedin&logoColor=black" />
 </a>
 
 </div>
