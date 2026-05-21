@@ -21,7 +21,7 @@
   <a href="https://lingubible.com">
     <img src="https://img.shields.io/badge/Live%20Project-LingUBible-14B8A6?style=for-the-badge&logo=react&logoColor=white" alt="LingUBible" />
   </a>
-  <a href="mailto:contact@ansonlo.dev">
+  <a href="mailto:hi@ansonlo.dev">
     <img src="https://img.shields.io/badge/Contact-Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -167,13 +167,10 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 <a href="https://ansonlo.dev">
   <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=hugo&logoColor=white" />
 </a>
-<a href="mailto:contact@ansonlo.dev">
+<a href="mailto:hi@ansonlo.dev">
   <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-<a href="https://www.linkedin.com/in/ansonlo-dev">
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-</a>
+
 </div>
 
 ---
