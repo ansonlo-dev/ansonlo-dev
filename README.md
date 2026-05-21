@@ -3,36 +3,36 @@
 <!-- ============================ BANNER ============================ -->
 
 <a href="https://ansonlo.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=ansonlo.dev&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Crafting%20software%20that%20matters%20%E2%80%94%20from%20Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0&descAlignY=58&descSize=18&animation=fadeIn" alt="ansonlo.dev banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:10B981,100:0E7490&height=220&section=header&text=ansonlo.dev&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Crafting%20software%20that%20matters%20%E2%80%94%20from%20Hong%20Kong%20%F0%9F%87%AD%F0%9F%87%B0&descAlignY=58&descSize=18&animation=fadeIn" alt="ansonlo.dev banner" />
 </a>
 
 <!-- ============================ TYPING ============================ -->
 
 <a href="https://github.com/ansonlo-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=10B981&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
 </a>
 
 <!-- ============================ SOCIAL ROW ============================ -->
 
 <p>
   <a href="https://ansonlo.dev">
-    <img src="https://img.shields.io/badge/Website-ansonlo.dev-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-ansonlo.dev-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://lingubible.com">
-    <img src="https://img.shields.io/badge/Live%20Project-LingUBible-BB9AF7?style=for-the-badge&logo=react&logoColor=white" alt="LingUBible" />
+    <img src="https://img.shields.io/badge/Live%20Project-LingUBible-14B8A6?style=for-the-badge&logo=react&logoColor=white" alt="LingUBible" />
   </a>
   <a href="mailto:contact@ansonlo.dev">
-    <img src="https://img.shields.io/badge/Contact-Email-F7768E?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact-Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ansonlo-dev&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ansonlo-dev&label=Profile%20views&color=10b981&style=flat-square" alt="Profile views" />
   <a href="https://github.com/ansonlo-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/ansonlo-dev?label=Followers&style=flat-square&color=bb9af7&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/ansonlo-dev?label=Followers&style=flat-square&color=14b8a6&logo=github" alt="Followers" />
   </a>
   <a href="https://github.com/ansonlo-dev/LingUBible">
-    <img src="https://img.shields.io/github/stars/ansonlo-dev?label=Total%20stars&style=flat-square&color=f7768e&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/ansonlo-dev?label=Total%20stars&style=flat-square&color=0891b2&logo=github" alt="Stars" />
   </a>
 </p>
 
@@ -42,20 +42,56 @@
 
 ## 🧭 About Me
 
-```typescript
-const anson = {
-  location:    "Hong Kong 🇭🇰",
-  university:  "Lingnan University 🎓",
-  studying:    ["Quantitative Decision Sciences", "Data & Statistics"],
-  building:    "LingUBible — a course & lecturer review platform",
-  languages:   ["English", "繁體中文", "TypeScript", "Python"],
-  interests:   ["Web Development", "Financial Markets 📈", "Bitcoin ₿", "UX Design"],
-  philosophy:  "Ship real products. Iterate. Repeat.",
-  currentFocus: "🎯 Scaling LingUBible & exploring quant strategies"
-};
+<table>
+<tr>
+<td valign="top" width="55%">
+
+> A **Hong Kong-based developer** and **Lingnan University** undergrad living at the intersection of **code, design, and numbers** 🧮
+
+By day I work on quantitative coursework — operations research, game theory, statistical modelling. By night I build software that real students at my university use every day.
+
+I care about three things: **clean architecture**, **thoughtful UX**, and **shipping**. Everything else is detail.
+
+</td>
+<td valign="top" width="45%">
+
+```yaml
+🌏 Location:   Hong Kong 🇭🇰
+🎓 University: Lingnan University
+💼 Building:   LingUBible
+🗣️ Languages:  EN · 繁體中文
+⚡ Stack:      TS · React · Bun
+🎯 Status:     Focusing
 ```
 
-I'm a **Hong Kong-based developer and Lingnan University student** who lives at the intersection of **code, design, and numbers**.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <h3>🌐</h3>
+  <b>Origin</b><br/>
+  <sub>Hong Kong native, building for global audiences</sub>
+</td>
+<td align="center" width="25%">
+  <h3>🎓</h3>
+  <b>Studying</b><br/>
+  <sub>Quantitative Decision Sciences & Statistics</sub>
+</td>
+<td align="center" width="25%">
+  <h3>💻</h3>
+  <b>Crafting</b><br/>
+  <sub>Production web apps with modern TypeScript</sub>
+</td>
+<td align="center" width="25%">
+  <h3>📈</h3>
+  <b>Curious</b><br/>
+  <sub>Financial markets, Bitcoin, and on-chain analytics</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,19 +99,21 @@ I'm a **Hong Kong-based developer and Lingnan University student** who lives at 
 
 <div align="center">
 
-<a href="https://github.com/ansonlo-dev/LingUBible">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ansonlo-dev&repo=LingUBible&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="LingUBible" />
+<a href="https://lingubible.com">
+  <img src="https://github.com/ansonlo-dev/LingUBible/raw/main/public/banner.png" alt="LingUBible Banner" width="100%" />
 </a>
+
+<br /><br />
+
+### *Let every review be a guiding light on your learning journey* ✨
 
 </div>
 
-> **LingUBible** — *Let every review be a guiding light on your learning journey* ✨
->
-> A trilingual (EN / 繁中 / 简中) course and lecturer review platform built specifically for Lingnan University students. Helps undergrads make informed academic choices, share authentic learning experiences, and find the right courses faster.
+> **LingUBible** is a trilingual (EN / 繁中 / 简中) course and lecturer review platform built specifically for Lingnan University students. It helps undergrads make informed academic choices, share authentic learning experiences, and find the right courses faster.
 
 <div align="center">
 
-**🌐 [Visit Live Site](https://lingubible.com)** • **📖 [Documentation](https://github.com/ansonlo-dev/LingUBible/tree/main/docs)** • **☕ [Support on Ko-fi](https://ko-fi.com/lingubible)**
+**🌐 [Visit Live Site](https://lingubible.com)** · **📖 [Documentation](https://github.com/ansonlo-dev/LingUBible/tree/main/docs)** · **💻 [Source Code](https://github.com/ansonlo-dev/LingUBible)** · **☕ [Support on Ko-fi](https://ko-fi.com/lingubible)**
 
 </div>
 
@@ -84,13 +122,13 @@ I'm a **Hong Kong-based developer and Lingnan University student** who lives at 
 | Layer        | Choice                                      | Why                                                      |
 | :----------- | :------------------------------------------ | :------------------------------------------------------- |
 | **Frontend** | React 18 + TypeScript + Vite 7              | Type-safe components, sub-second HMR                     |
-| **UI**       | Tailwind CSS + shadcn/ui + ECharts          | Consistent design system, interactive data viz          |
+| **UI**       | Tailwind CSS + shadcn/ui + ECharts          | Consistent design system, interactive data viz           |
 | **Backend**  | Appwrite (BaaS)                             | Auth, database, and email in one platform                |
 | **Deploy**   | Cloudflare Workers                          | Edge-first, global low latency                           |
 | **Tooling**  | Bun runtime + ESLint                        | ~15× faster installs vs npm                              |
 | **i18n**     | 3 languages, fully localized                | English, Traditional Chinese, Simplified Chinese         |
 
-**Performance:** ~99 KB gzipped bundle • <2s initial load • 95+ Lighthouse mobile • 98+ desktop
+**📊 Performance:** ~99 KB gzipped bundle · <2s initial load · 95+ Lighthouse mobile · 98+ desktop
 
 ---
 
@@ -143,37 +181,81 @@ I'm a **Hong Kong-based developer and Lingnan University student** who lives at 
 
 <div align="center">
 
-<a href="https://github.com/ansonlo-dev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ansonlo-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonlo-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8" alt="Top languages" />
-</a>
+<!-- These SVGs are generated nightly by a GitHub Action and committed to this repo.
+     They're hosted on GitHub itself — no Vercel rate limits, no broken images.
+     See the setup instructions at the bottom of this section. -->
 
-<br />
-
-<a href="https://github.com/ansonlo-dev">
-  <img src="https://streak-stats.demolab.com?user=ansonlo-dev&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak" />
-</a>
+<img src="./profile-summary-card-output/vue/0-profile-details.svg" alt="Profile details" width="100%" />
 
 <br /><br />
 
-<a href="https://github.com/ansonlo-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonlo-dev&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=f7768e&area=true&area_color=7aa2f7" alt="Contribution graph" />
-</a>
+<img src="./profile-summary-card-output/vue/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="./profile-summary-card-output/vue/2-most-commit-language.svg" alt="Most commit language" width="49%" />
 
-<br />
+<br /><br />
 
+<img src="./profile-summary-card-output/vue/3-stats.svg" alt="Stats" width="49%" />
+<img src="./profile-summary-card-output/vue/4-productive-time.svg" alt="Productive time" width="49%" />
+
+<br /><br />
+
+<!-- Streak stats — hosted on demolab.com (NOT vercel), so unaffected by the vercel paused deployment -->
+<img src="https://streak-stats.demolab.com?user=ansonlo-dev&theme=merko&hide_border=true&background=0D1117&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideNums=10B981&sideLabels=06B6D4&dates=84CC16" alt="GitHub streak" />
+
+<br /><br />
+
+<!-- Activity graph — separate Vercel deployment, currently still active -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonlo-dev&custom_title=Contribution%20Activity&bg_color=0D1117&color=10B981&line=06B6D4&point=84CC16&area=true&area_color=10B981&title_color=10B981&hide_border=true" alt="Contribution graph" />
+
+<br /><br />
+
+<!-- Trophies — separate Vercel deployment, currently still active -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansonlo-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ansonlo-dev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </a>
 
 </div>
 
----
+<details>
+<summary><b>📦 How these stats stay alive (click to expand setup)</b></summary>
 
-## 🎯 What I'm Up To
+<br />
 
-- 🔭 **Currently building** — new features for [LingUBible](https://lingubible.com): smarter search, richer analytics, and an achievement system
-- 🤝 **Open to** — collaborations on student-focused tools, EdTech, fintech, or any open-source project that helps real people
+The five cards at the top of this section are generated by [`vn7n24fzkq/github-profile-summary-cards`](https://github.com/vn7n24fzkq/github-profile-summary-cards) via a GitHub Action that runs nightly, then commits the rendered SVGs into this repo. This means the cards are served straight from GitHub's CDN — **no Vercel, no rate limits, no surprise 503s**.
+
+**One-time setup:**
+
+1. Create a Personal Access Token (PAT) at `Settings → Developer settings → Personal access tokens (classic)` with `repo` and `user` scopes. Copy it.
+2. In this repo, go to `Settings → Secrets and variables → Actions → New repository secret`. Name it `GH_TOKEN`, paste the PAT.
+3. Add the workflow file at `.github/workflows/profile-summary-cards.yml`:
+
+```yaml
+name: GitHub-Profile-Summary-Cards
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily at 18:00 UTC (02:00 HKT)
+  workflow_dispatch:        # also runnable manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    name: generate-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+```
+
+4. Go to the **Actions** tab → select **GitHub-Profile-Summary-Cards** → click **Run workflow**. After ~30 seconds, the SVGs land in `profile-summary-card-output/vue/` and the cards above render automatically.
+
+Available themes (replace `vue` in the image paths to swap): `default`, `2077`, `dracula`, `github`, `github_dark`, `gruvbox`, `monokai`, `nord_bright`, `nord_dark`, `radical`, `solarized`, `solarized_dark`, `tokyonight`, **`vue`** (green — currently used), `zenburn`, `transparent`.
+
+</details>
 
 ---
 
@@ -186,13 +268,13 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 <br />
 
 <a href="https://ansonlo.dev">
-  <img src="https://img.shields.io/badge/-ansonlo.dev-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:contact@ansonlo.dev">
-  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-F7768E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/ansonlo-dev/LingUBible/discussions">
-  <img src="https://img.shields.io/badge/-Discussions-BB9AF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Discussions-0891B2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -205,8 +287,8 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=110&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,50:10B981,100:6EE7B7&height=110&section=footer" alt="footer" />
 
-<sub>Last updated 2026 · Built with ❤️ by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
+<sub>Last updated 2026 · Built with 💚 by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
 
 </div>
