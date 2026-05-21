@@ -170,8 +170,9 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 <a href="mailto:contact@ansonlo.dev">
   <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 <a href="https://www.linkedin.com/in/ansonlo-dev">
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 </a>
 </div>
 
