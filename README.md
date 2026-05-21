@@ -44,15 +44,6 @@
 
 A **Hong Kong-based developer** and **Lingnan University** undergrad living at the intersection of **code, design, and numbers** 🧮
 
-```yaml
-🌏 Location:   Hong Kong 🇭🇰
-🎓 University: Lingnan University
-💼 Building:   LingUBible
-🗣️ Languages:  EN · 繁體中文
-⚡ Stack:      TS · React · Bun
-🎯 Status:     Focusing
-```
-
 ---
 
 ## 🚀 Featured Project
@@ -174,13 +165,13 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 <br />
 
 <a href="https://ansonlo.dev">
-  <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=hugo&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ansonlo.dev-10B981?style=for-the-badge&logo=hugo&logoColor=white" />
 </a>
 <a href="mailto:contact@ansonlo.dev">
-  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=black" />
+  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ansonlo-dev">
-  <img src="https://img.shields.io/badge/-ansonlo-dev-0891B2?style=for-the-badge&logo=Linkedin&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ansonlo-dev-0891B2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white" />
 </a>
 
 </div>
