@@ -9,7 +9,7 @@
 <!-- ============================ TYPING ============================ -->
 
 <a href="https://github.com/ansonlo-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;Building+LingUBible+for+10%2C000%2B+students+%F0%9F%93%9A;Quant-minded%2C+crypto-curious+%E2%82%BF;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Full-stack+developer+%E2%9A%A1+TypeScript+%26+React;Student+%40+Lingnan+University+%F0%9F%8E%93;Quant-minded%2C+crypto-curious+%E2%82%BF;%E5%96%9C%E6%AD%A1%E6%8A%8A%E5%95%8F%E9%A1%8C%E8%AE%8A%E6%88%90%E7%94%A2%E5%93%81+%F0%9F%9A%80" alt="Typing tagline" />
 </a>
 
 <!-- ============================ SOCIAL ROW ============================ -->
@@ -58,9 +58,7 @@ const anson = {
 };
 ```
 
-I'm a **Hong Kong-based developer and Lingnan University student** who lives at the intersection of **code, design, and numbers**. By day I work on quantitative coursework — operations research, game theory, statistical modelling. By night I build software that students at my university actually use.
-
-I care about three things: **clean architecture, thoughtful UX, and shipping**. Everything else is detail.
+I'm a **Hong Kong-based developer and Lingnan University student** who lives at the intersection of **code, design, and numbers**.
 
 ---
 
@@ -185,13 +183,13 @@ I care about three things: **clean architecture, thoughtful UX, and shipping**. 
 
 ---
 
-## 💬 Languages I Speak
+## 💬 Stack
 
 <div align="center">
 
-| Spoken / Written | Code |
-| :-------------: | :--: |
-| 🇬🇧 English (fluent) · 🇭🇰 繁體中文 (母語) | TypeScript · JavaScript · Python · Bash |
+| Languages |
+| :-------------: |
+| TypeScript · JavaScript · Python · Bash |
 
 </div>
 
@@ -209,7 +207,7 @@ I'm always open to interesting conversations — whether it's a project idea, a 
   <img src="https://img.shields.io/badge/-ansonlo.dev-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:contact@ansonlo.dev">
-  <img src="https://img.shields.io/badge/-contact%40ansonlo.dev-F7768E?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-hi%40ansonlo.dev-F7768E?style=for-the-badge&logo=email&logoColor=white" />
 </a>
 <a href="https://github.com/ansonlo-dev/LingUBible/discussions">
   <img src="https://img.shields.io/badge/-Discussions-BB9AF7?style=for-the-badge&logo=github&logoColor=white" />
@@ -227,6 +225,6 @@ I'm always open to interesting conversations — whether it's a project idea, a 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=110&section=footer" alt="footer" />
 
-<sub>Crafted with ☕ in Hong Kong · Last updated 2026 · Built with care by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
+<sub>Last updated 2026 · Built with ☕ by <a href="https://ansonlo.dev">ansonlo.dev</a></sub>
 
 </div>
