@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Live%20Project-LingUBible-14B8A6?style=for-the-badge&logo=react&logoColor=white" alt="LingUBible" />
   </a>
   <a href="mailto:hi@ansonlo.dev">
-    <img src="https://img.shields.io/badge/Contact-Email-0891B2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Contact-hi@ansonlo.dev-0891B2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
