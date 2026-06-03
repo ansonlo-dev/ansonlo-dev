@@ -137,20 +137,8 @@ A **Hong Kong-based developer** and **Lingnan University** undergrad living at t
 
 <br /><br />
 
-<!-- Streak stats — hosted on demolab.com (NOT vercel), so unaffected by the vercel paused deployment -->
-<img src="https://streak-stats.demolab.com?user=ansonlo-dev&theme=merko&hide_border=true&background=0D1117&ring=10B981&fire=06B6D4&currStreakLabel=10B981&sideNums=10B981&sideLabels=06B6D4&dates=84CC16" alt="GitHub streak" />
-
-<br /><br />
-
 <!-- Activity graph — separate Vercel deployment, currently still active -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansonlo-dev&custom_title=Contribution%20Activity&bg_color=0D1117&color=10B981&line=06B6D4&point=84CC16&area=true&area_color=10B981&title_color=10B981&hide_border=true" alt="Contribution graph" />
-
-<br /><br />
-
-<!-- Trophies — separate Vercel deployment, currently still active -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansonlo-dev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</a>
 
 </div>
 
