@@ -123,7 +123,7 @@ A **Hong Kong-based developer** and **Lingnan University** undergrad living at t
      They're hosted on GitHub itself — no Vercel rate limits, no broken images.
      See the setup instructions at the bottom of this section. -->
 
-<img src="./profile-summary-card-output/vue/0-profile-details.svg" alt="Profile details" width="100%" />
+<!-- <img src="./profile-summary-card-output/vue/0-profile-details.svg" alt="Profile details" width="100%" /> -->
 
 <br /><br />
 
@@ -132,7 +132,7 @@ A **Hong Kong-based developer** and **Lingnan University** undergrad living at t
 
 <br /><br />
 
-<img src="./profile-summary-card-output/vue/3-stats.svg" alt="Stats" width="49%" />
+<!-- <img src="./profile-summary-card-output/vue/3-stats.svg" alt="Stats" width="49%" /> -->
 <img src="./profile-summary-card-output/vue/4-productive-time.svg" alt="Productive time" width="49%" />
 
 <br /><br />
